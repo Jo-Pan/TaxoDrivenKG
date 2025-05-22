@@ -1,2 +1,1 @@
-*.json filter=lfs diff=lfs merge=lfs -text
 outputs_others/Index_all_llmdefin_NV-Embed-v2/*.json filter=lfs diff=lfs merge=lfs -text

@@ -17,7 +17,7 @@ output_dir = "./outputs_postRAG/base_Llama-3.3-70B-Instruct"
 # for input_name in os.listdir(input_group):
 # input_dir = os.path.join(input_group, input_name)
 # output_dir = os.path.join("./outputs_postRAG/", f"{input_name}")
-# os.makedirs(output_dir, exist_ok=True)
+os.makedirs(output_dir, exist_ok=True)
 # print(f"Processing {input_name}")
 
 # pbar = tqdm(os.listdir("./outputs_exp/base_Llama-3.1-8B-Instruct"))
