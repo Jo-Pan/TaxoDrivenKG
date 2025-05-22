@@ -1,0 +1,60 @@
+PATH = {
+    "weakly_supervised": {
+        "text": "../ClimateIE/parsed_text",
+        "RAG_preprocessed": "./outputs_others/RAGpreprocessed",
+    },
+    "RAG": {
+        "vector_index": "./outputs_others/Index_all_llmdefin_NV-Embed-v2",
+        "prev_retrieved": "./outputs_others/RETRIEVED.json",
+    },
+    "LLM": {
+        "examples": "./outputs_others/few_shot.json",
+        "chunked_text": "./outputs_others/chunked_text_600tokens",
+    },
+    "GCMD": "./outputs_others/GCMD_12142024.json",
+}
+LABELS_DICT = {
+    "entities": [
+        "project",
+        "location",
+        "model",
+        "experiment",
+        "platform",
+        "instrument",
+        "provider",
+        "variable",
+        "weather event",
+        "natural hazard",
+        "teleconnection",
+        "ocean circulation",
+    ],
+    "relations": [
+        "ComparedTo",
+        "Outputs",
+        "RunBy",
+        "ProvidedBy",
+        "ValidatedBy",
+        "UsedIn",
+        "MeasuredAt",
+        "MountedOn",
+        "TargetsLocation",
+    ],
+    "label_mapper": {
+        "Projects": "project",
+        "Locations": "location",
+        "MODELS": "model",
+        "Experiments": "experiment",
+        "Experiments Forcing": "experiment",
+        "Experiments Scenario": "experiment",
+        "Platforms": "platform",
+        "Instruments": "instrument",
+        "Providers": "provider",
+        "Variables": "variable",
+        "Measurement Name": "variable",
+        "WEATHER EVENTS": "weather event",
+        "NATURAL HAZARDS": "natural hazard",
+        "TELECONNECTIONS": "teleconnection",
+        "OCEAN CIRCULATION": "ocean circulation",
+    },
+}
+text_template = "<heading>{}</heading>\n{}\n"
