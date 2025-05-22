@@ -1,1 +1,3 @@
-{"relative permittivity": ["variable", "7ea836c5-e959-4dba-93bb-b1d4e511bfad", "RELATIVE PERMITTIVITY", 0.5792028644041309], "high resolution TEM image": ["instrument", "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b", "TEM", 0.5537693488620653], "TEM micrographs": ["instrument", "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b", "TEM", 0.5423333424267248], "scanning TEM image": ["instrument", "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b", "TEM", 0.5744752265737916], "energy dispersive X-ray spectroscopy": ["instrument", "b3a7155c-5089-4388-a148-8d4defc520f8", "EDAX", 0.5055808548860409]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f978bfdb149faab254e1059be59960005faf9d30a80b5c89a615ac094a214b02
+size 567

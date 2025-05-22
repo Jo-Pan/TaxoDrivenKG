@@ -1,1 +1,3 @@
-{"quantitative PCR": ["variable", "692be87a-7812-44c7-be4b-7d067a3fa77d", "QUANTITATIVE POLYMERASE CHAIN REACTION (qPCR)", 0.58210509734362], "Flow cytometry data": ["instrument", "78090906-ba69-42f4-97a0-c770556e236e", "FLOW CYTOMETRY", 0.5367141130166139], "flow cytometry": ["instrument", "78090906-ba69-42f4-97a0-c770556e236e", "FLOW CYTOMETRY", 0.5907960307967226], "Quantatative PCR": ["variable", "692be87a-7812-44c7-be4b-7d067a3fa77d", "QUANTITATIVE POLYMERASE CHAIN REACTION (qPCR)", 0.5187788715414334], "cytometry": ["instrument", "78090906-ba69-42f4-97a0-c770556e236e", "FLOW CYTOMETRY", 0.5074586868530012], "Immunofuorescence microscopy": ["instrument", "35dc5fc4-4c96-44d9-8710-0e99e00201c8", "FLUORESCENCE MICROSCOPY", 0.5023531906308346]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:08d013ae52bd373be8382e56dc5aaf72db7bead481ebcae06118c498fa4cfc15
+size 755

@@ -1,1 +1,3 @@
-{"household income": ["variable", "c88a747b-2302-49c9-b747-f2faa21e2b6b", "HOUSEHOLD INCOME", 0.5125715400210439], "total annual household income": ["variable", "c88a747b-2302-49c9-b747-f2faa21e2b6b", "HOUSEHOLD INCOME", 0.5060793633388229], "climate change adaptation": ["variable", "223e1204-e305-43d2-80d0-8baed8c828c0", "CLIMATE ADAPTATION", 0.509007478206282], "extreme weather events": ["variable", "b29b46ad-f05f-4144-b965-5f606ce96963", "EXTREME WEATHER", 0.5506827056536702], "water-holding capacity": ["variable", "7c00e468-6a43-49ef-891e-b0ce29e2ff36", "SOIL WATER HOLDING CAPACITY", 0.5643722269246664], "cropping system": ["variable", "2dda92a8-6c26-4506-9881-43b6d9a83b18", "CROPPING SYSTEMS", 0.5391451462041643]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89079fd0d0ec46ffefdf74e825ae2b64b17aaee4f3f6568e77b10aab1cd050bc
+size 728

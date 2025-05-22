@@ -1,1 +1,3 @@
-{"Swift X-ray Telescope": ["instrument", "221d6bc4-8fd6-438f-a49b-10acec766ce9", "X-RAY TELESCOPE", 0.5608290974564595], "ground-based data": ["platform", "dbcead38-c78b-4306-b56f-0ea15c0b755b", "GROUND-BASED OBSERVATIONS", 0.5063227769501613], "Very Large Array radio position": ["instrument", "d8b6c727-ccd1-407d-9751-95b94136b510", "VLA", 0.5524842435806179], "ground-based observations": ["platform", "dbcead38-c78b-4306-b56f-0ea15c0b755b", "GROUND-BASED OBSERVATIONS", 0.5462651137462364], "coalescence": ["variable", "d5d64790-db29-451d-b022-a461dac06228", "COALESCENCE", 0.5171942166232723]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:387098de6495464006ea59d252b778ca4ea0eb04d204ba4e46409ab52381cdae
+size 598

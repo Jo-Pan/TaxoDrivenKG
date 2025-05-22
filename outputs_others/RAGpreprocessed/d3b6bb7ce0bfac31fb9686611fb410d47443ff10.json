@@ -1,1 +1,3 @@
-{"boundary": ["variable", "07a856fd-75e2-46e8-91eb-8a8562d3452f", "BOUNDARIES", 0.710883888483707], "populations": ["variable", "085edf65-1c8c-414a-b8e4-a1a08ff08f22", "POPULATION", 0.7028943466101086], "region": ["location", "559411a8-5fe5-4d2c-ad6b-30849e650396", "Region", 0.7318110112073863], "epoch": ["project", "1bb284ac-a2e1-4b40-aac2-1f948af38715", "EPOCH", 0.7347652539384523], "population": ["variable", "085edf65-1c8c-414a-b8e4-a1a08ff08f22", "POPULATION", 0.7020368166055323], "environmental cycles": ["variable", "9015e65f-bbae-4855-a4b6-1bfa601752bd", "BIOGEOCHEMICAL CYCLES", 0.7023997243332024]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:21e5f4a9861c89a755401e00970321632d2d0b6bae6f977e9d53ef07f222ff45
+size 612

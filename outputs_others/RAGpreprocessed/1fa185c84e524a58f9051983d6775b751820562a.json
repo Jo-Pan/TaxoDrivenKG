@@ -1,1 +1,3 @@
-{"temperature and humidity sensor": ["instrument", "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5", "Temperature/Humidity Sensors", 0.6009113746274796], "magnetometer": ["instrument", "deac2632-5c17-4d15-ae92-c61ebc5a405a", "MAGNETOMETERS", 0.5243396088665796], "accelerometer": ["instrument", "0fdcd01a-d31f-4f34-aecc-55f541147b52", "ACCELEROMETERS", 0.5346298780411614]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:74327401eea65531e159a4045e5bd8f15d4c183485857da1683ff04296800af9
+size 363

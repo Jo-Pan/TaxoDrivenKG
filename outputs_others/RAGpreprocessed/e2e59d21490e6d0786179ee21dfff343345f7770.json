@@ -1,1 +1,3 @@
-{"proteomics": ["variable", "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e", "PROTEOMICS", 0.5394629281520725], "transmission electron microscope": ["instrument", "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b", "TEM", 0.5481614098263855], "transcriptomics": ["variable", "19291970-5f7d-47b0-9101-11b03a15d9ee", "TRANSCRIPTOMIC ANALYSIS", 0.6137716867475559], "proteomics-based approach": ["variable", "dd6592c0-c95a-4e4f-8ae7-8bfae7de9a3e", "PROTEOMICS", 0.5033825267249912], "transmission electron microscopy": ["instrument", "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b", "TEM", 0.5638049290229509], "transcriptomics analyses": ["variable", "19291970-5f7d-47b0-9101-11b03a15d9ee", "TRANSCRIPTOMIC ANALYSIS", 0.6001667262041326], "Transmission electron microscopy": ["instrument", "e5ab49d5-5f99-43d6-85bd-8db629f7bc7b", "TEM", 0.551629155883402]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c000fd3a0f2b54941c7ec7e77cd71c87bf717b3416827df54c2ff3e639c83eb
+size 824

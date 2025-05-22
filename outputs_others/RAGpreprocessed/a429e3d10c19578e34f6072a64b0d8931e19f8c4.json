@@ -1,1 +1,3 @@
-{"elements": ["variable", "da22144c-634d-4007-aba9-e636a9f2fa3f", "ELEMENTS", 0.725327442628832], "income": ["variable", "c88a747b-2302-49c9-b747-f2faa21e2b6b", "HOUSEHOLD INCOME", 0.7032154819213449], "North America": ["location", "88bc8b39-ad19-4415-b426-e7d37450341a", "NORTH AMERICA", 0.7053906156622383], "realm": ["variable", "61cd0af2-2f62-4aa4-b6c3-f683e975c820", "Realm", 0.7731976241739367], "lead": ["variable", "6fe420c1-2285-4031-babe-f0243c59a617", "LEAD", 0.7016823642874855], "identification": ["instrument", "a9b6ed7f-2e26-4749-98f0-b3617451192b", "Photo-Identification Techniques", 0.7071187046530246], "land": ["variable", "e2e53a45-c6ee-4fac-9c08-7677c1318533", "land", 0.7117195055822627]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d0d8d5e672a0d4c5421b3569c81a21409aabbbb6cbd2ebf1edd6d1deea47b9
+size 710

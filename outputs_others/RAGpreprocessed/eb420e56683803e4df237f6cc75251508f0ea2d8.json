@@ -1,1 +1,3 @@
-{"large-scale solar projects": ["project", "6b500b74-cae1-4e23-a058-1e279131a54a", "LARGE SCALE PROJECT", 0.5712047833815753], "central Europe": ["location", "e56c5b41-7568-42db-ae22-ae9c1c9dc26a", "CENTRAL EUROPE", 0.5350334969224031], "ambient temperature": ["variable", "1d2ac206-0977-4145-b334-baa6e13a0db6", "AMBIENT TEMPERATURE", 0.5919355795646252], "sea level rise": ["variable", "0afaaa5e-f88c-4c1f-95c1-1faa0148885a", "SEA LEVEL RISE", 0.5588098430970639], "sufficient solar irradiance": ["variable", "33f0ec3e-cd6d-498c-9468-749741fc12e2", "SOLAR IRRADIANCE", 0.5134965989614083], "geothermal energy": ["variable", "33d1810f-40c6-4b37-ac90-7435ef5fa507", "GEOTHERMAL ENERGY", 0.5523748612013236]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36acfdd7c3cd6dc7afbc5144e0ea67ecfa3afd77a246116c54d37bbaa3f0968f
+size 707

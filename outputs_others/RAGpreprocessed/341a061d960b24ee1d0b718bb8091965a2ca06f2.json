@@ -1,1 +1,3 @@
-{"light flux": ["variable", "7971f416-cf75-47f4-9108-6184baab58e5", "VISIBLE FLUX", 0.7319798973310266], "validation": ["variable", "b283a59c-0e9a-469c-baf4-591b64cd4671", "VALIDATION", 0.710901830437698], "luminous flux": ["variable", "7971f416-cf75-47f4-9108-6184baab58e5", "VISIBLE FLUX", 0.7173098644203907], "surface reflectivity": ["variable", "6b798091-6362-4e78-9c51-bd5327ec73e7", "APPARENT SURFACE REFLECTIVITY", 0.7474215515864328], "illuminometer": ["instrument", "806d0bc3-8d08-4418-800b-972292f3db99", "PHOTOMETERS", 0.7065719774868963]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a4bd602fece80881350001b9d12b22a907749b344dfc33ced5daa12419b5798
+size 551

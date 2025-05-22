@@ -1,1 +1,3 @@
-{"temperature profiles": ["variable", "321d9086-fc85-40a3-a2e0-d24bc6765345", "TEMPERATURE PROFILES", 0.7244822068000438], "short wavelength fluxes": ["variable", "b514c2a8-ff5e-4f5a-95ab-5d06c61288c4", "SHORTWAVE HEAT FLUX", 0.5458483289344254], "cosmic ray": ["variable", "e06822d8-b640-4d75-ac37-33ab3cc5e765", "COSMIC RAYS", 0.5099905536284847], "accretion": ["variable", "ab702934-0959-45fc-a523-81e1aa0c09c8", "ACCRETION", 0.7910045833126589], "density": ["variable", "007ab607-2ee1-484d-85fb-0bfb89f18c9b", "DENSITY", 0.7185245591561541], "boundary layer": ["location", "928f6ffd-4b96-43c5-91e9-9c655258ad44", "BOUNDARY LAYER", 0.7642393580108784], "emission": ["variable", "4b12439a-45fc-42fa-ae19-535826f6247b", "EMISSION", 0.7635023838212571]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fa512ae089e018564e3a7974307155271cd968e8da326e28a590a68679eaa6b
+size 753

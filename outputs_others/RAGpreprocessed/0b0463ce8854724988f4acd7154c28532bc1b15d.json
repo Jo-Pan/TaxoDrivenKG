@@ -1,1 +1,3 @@
-{"sensors": ["instrument", "7f7bb2bd-89a6-418e-b291-8fb5af7dcf4f", "GAS SENSORS", 0.7043646139556119], "boundary": ["variable", "07a856fd-75e2-46e8-91eb-8a8562d3452f", "BOUNDARIES", 0.710883888483707], "region": ["location", "559411a8-5fe5-4d2c-ad6b-30849e650396", "Region", 0.7318110112073863], "recurrent neural networks": ["model", "c3d5ed2a-04c6-432f-938c-bb06ec887cdc", "RECURRENT NEURAL NETWORKS", 0.7162593157994451], "visibility": ["variable", "9337898d-68dc-43d7-93a9-6afdb4ab1784", "VISIBILITY", 0.7102172977896133], "meta-collision rate": ["variable", "76bcb8e0-1c07-4783-9d15-3a22203f7849", "COLLISION RATE", 0.507187611955151], "object detection": ["model", "55a99ac5-595b-4411-a11f-79d91603358a", "OBJECT DETECTION", 0.7432251110512677], "density": ["variable", "007ab607-2ee1-484d-85fb-0bfb89f18c9b", "DENSITY", 0.7185245591561541]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:966404136aaf5ecdb7da5d4c19c600dc75a750bdc979eb9cc8f4e373c76c366d
+size 847

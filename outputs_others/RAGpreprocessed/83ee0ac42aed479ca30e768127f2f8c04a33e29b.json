@@ -1,1 +1,3 @@
-{"nutrients": ["variable", "9bcb805c-718e-42c3-913d-174bdf06d4c1", "NUTRIENTS", 0.71016183734061], "infiltration": ["variable", "638a22af-4e97-450e-a278-b81338443230", "INFILTRATION", 0.715149039839492], "CAAs": ["provider", "e10d3581-5c1e-45ab-bb99-ce5ab3024435", "CN/MA/CAAS", 0.7172089627257], "CC BY": ["variable", "95c7e601-fcfe-4fc9-9994-8105a1e11428", "CC BY 4.0", 0.7026157954329912], "Nutrients": ["variable", "9bcb805c-718e-42c3-913d-174bdf06d4c1", "NUTRIENTS", 0.71016183734061], "Creative Commons Attribution License": ["variable", "95c7e601-fcfe-4fc9-9994-8105a1e11428", "CC BY 4.0", 0.7456901908348295]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:280ff0e8f96d131368df935c1c925afb00f32a6d78d85e9b308a1d23fca72cbb
+size 617
