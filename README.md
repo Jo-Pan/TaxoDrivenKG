@@ -48,12 +48,14 @@ Make sure you have Python 3.8+ installed, then run:
 pip install -r requirements.txt
 ```
 
-Dataset can be downloade from: [https://github.com/Jo-Pan/ClimateIE](https://github.com/Jo-Pan/ClimateIE)
+Dataset can be downloaded from: [https://github.com/Jo-Pan/ClimateIE](https://github.com/Jo-Pan/ClimateIE)
 
 Edit consts.py to configure:
 - Input publications
 - Taxonomy files
 - LLM and RAG model settings
+
+The index can be found in [this link](https://tuprd-my.sharepoint.com/:f:/g/personal/tuf28724_temple_edu/EsB5mOMQGrBJuRuV9vfMSd8Be9R6cYxSGWsD4sPVvmXzaw?e=XbHDT3). Please place the index folder in `outputs_others/`.
 
 ### 2. Run the RAG
 
